@@ -1,1 +1,5 @@
-# Interaction Lab Projects\nPlease feel free to use for your own projects or knowledge\nDocumentation Available at: http://ima.nyu.sh/documentation/author/tt1666/
+#Interactive Media Arts
+Spring 2018 Lab Projects
+
+Please feel free to use code for your own projects or knowledge.
+Documentation Available at: http://ima.nyu.sh/documentation/author/tt1666/
